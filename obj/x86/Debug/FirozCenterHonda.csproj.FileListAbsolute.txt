@@ -1,0 +1,300 @@
+G:\FC\bin\Debug\FirozCenterHonda.exe.manifest
+G:\FC\bin\Debug\FirozCenterHonda.application
+G:\FC\bin\Debug\FirozCenterHonda.exe
+G:\FC\bin\Debug\FirozCenterHonda.pdb
+G:\FC\obj\x86\Debug\FirozCenterHonda.csprojResolveAssemblyReference.cache
+G:\FC\obj\x86\Debug\FirozCenterHonda.AddNewParts.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.EditPartsName.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.EditPurchaseMotorCycle.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.EditSaleParts.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.Login.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.MainForm.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.NewPurchaseParts.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.NewSalesEngineOil.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.NewSaleService.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.NewSalesParts.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.PartsPriceLIst.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportBankTranscation.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportExpences.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlyPurchaseMotorCycle.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlyPurchaseParts.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesEngineOil.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySaleService.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesMotorCycle.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesParts.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportMotorCycle.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportPartsWithPrice.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportPartyTranscation.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportPurchaseSummary.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportSalesPartsDaily.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.StockMotorCycleDetails.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.StockPartsReport.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleDaily.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleMonthly.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleTranscation.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.StockReportPartsDetails.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.StockReportPartsTranscation.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.TranscationMonthly.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.csproj.GenerateResource.Cache
+G:\FC\obj\x86\Debug\FirozCenterHonda.exe.manifest
+G:\FC\obj\x86\Debug\FirozCenterHonda.application
+G:\FC\obj\x86\Debug\FirozCenterHonda.exe
+G:\FC\obj\x86\Debug\FirozCenterHonda.pdb
+G:\FC\obj\x86\Debug\FirozCenterHonda.CustomerContactNumber.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.NewSalesMotorCycle.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesPartyPrice.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.DueService.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.NewServicing.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportServicing.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ServicingDetails.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.DeleteServicing.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportInventorySummery.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.UpdateMotorCycleName.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.NewUser.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.EditAccessLevel.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.ReportMotorcyclePrice.resources
+G:\FC\obj\x86\Debug\FirozCenterHonda.PrintSaleMotorCycle.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.csprojResolveAssemblyReference.cache
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.AddNewParts.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.CustomerContactNumber.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.DeleteServicing.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.DueService.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.EditAccessLevel.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.EditPartsName.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.EditPurchaseMotorCycle.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.EditSaleParts.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.Login.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.MainForm.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.NewPurchaseParts.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.NewSalesEngineOil.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.NewSaleService.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.NewSalesMotorCycle.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.NewSalesParts.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.NewServicing.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.NewUser.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.PartsPriceLIst.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.PrintSaleMotorCycle.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportBankTranscation.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportExpences.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportInventorySummery.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlyPurchaseMotorCycle.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlyPurchaseParts.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesEngineOil.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySaleService.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesMotorCycle.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesParts.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesPartyPrice.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportMotorCycle.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportMotorcyclePrice.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportPartsWithPrice.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportPartyTranscation.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportPurchaseSummary.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportSalesPartsDaily.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ReportServicing.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.ServicingDetails.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.StockMotorCycleDetails.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.StockPartsReport.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleDaily.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleMonthly.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorcycleMonthlyModelOnly.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleTranscation.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.StockReportPartsDetails.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.StockReportPartsTranscation.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.TranscationMonthly.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.UpdateMotorCycleName.resources
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.csproj.GenerateResource.Cache
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.exe
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.pdb
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\bin\Debug\FirozCenterHonda.exe.manifest
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\bin\Debug\FirozCenterHonda.application
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\bin\Debug\FirozCenterHonda.exe
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\bin\Debug\FirozCenterHonda.pdb
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\bin\Debug\MySql.Data.dll
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.exe.manifest
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.application
+C:\Users\Optimus Prime\Google Drive\Project\FirozCenterHonda\10 08 2017\FC\obj\x86\Debug\FirozCenterHonda.csproj.CoreCompileInputs.cache
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\bin\Debug\FirozCenterHonda.exe.manifest
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\bin\Debug\FirozCenterHonda.application
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\bin\Debug\FirozCenterHonda.exe
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\bin\Debug\FirozCenterHonda.pdb
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\bin\Debug\MySql.Data.dll
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.csprojResolveAssemblyReference.cache
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.AddNewParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.CustomerContactNumber.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.DeleteServicing.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.DueService.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.EditAccessLevel.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.EditPartsName.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.EditPurchaseMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.EditSaleParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.Login.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.MainForm.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewPurchaseParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewSalesEngineOil.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewSaleService.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewSalesMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewSalesParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewServicing.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewUser.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.PartsPriceLIst.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.PrintSaleMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportBankTranscation.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportExpences.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportInventorySummery.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlyPurchaseMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlyPurchaseParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesEngineOil.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySaleService.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesPartyPrice.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMotorcyclePrice.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportPartsWithPrice.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportPartyTranscation.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportPurchaseSummary.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportSalesPartsDaily.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportServicing.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ServicingDetails.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockMotorCycleDetails.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockPartsReport.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleDaily.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleMonthly.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorcycleMonthlyModelOnly.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleTranscation.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockReportPartsDetails.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockReportPartsTranscation.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.TranscationMonthly.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.UpdateMotorCycleName.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.csproj.GenerateResource.cache
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.csproj.CoreCompileInputs.cache
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.exe.manifest
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.application
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.csproj.CopyComplete
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.exe
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.pdb
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.csproj.ResolveComReference.cache
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\bin\Debug\FirozCenterHonda.exe.manifest
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\bin\Debug\FirozCenterHonda.application
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\bin\Debug\FirozCenterHonda.exe
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\bin\Debug\FirozCenterHonda.pdb
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\bin\Debug\MySql.Data.dll
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.csprojAssemblyReference.cache
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.csproj.ResolveComReference.cache
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.AddNewParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.CustomerContactNumber.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.DeleteServicing.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.DueService.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.EditAccessLevel.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.EditPartsName.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.EditPurchaseMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.EditSaleParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.Login.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.MainForm.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewPurchaseParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewSalesEngineOil.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewSaleService.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewSalesMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewSalesParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewServicing.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.NewUser.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.PartsPriceLIst.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.PrintSaleMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportBankTranscation.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportExpences.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportInventorySummery.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlyPurchaseMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlyPurchaseParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesEngineOil.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySaleService.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesPartyPrice.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportMotorcyclePrice.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportPartsWithPrice.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportPartyTranscation.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportPurchaseSummary.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportSalesPartsDaily.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ReportServicing.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.ServicingDetails.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockMotorCycleDetails.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockPartsReport.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleDaily.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleMonthly.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorcycleMonthlyModelOnly.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleTranscation.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockReportPartsDetails.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.StockReportPartsTranscation.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.TranscationMonthly.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.UpdateMotorCycleName.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.csproj.GenerateResource.cache
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.csproj.CoreCompileInputs.cache
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.exe.manifest
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.application
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.csproj.CopyComplete
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.exe
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.pdb
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\29-03-2018\FC\obj\x86\Debug\FirozCenterHonda.UpdatePurchaseInvoice.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\bin\Debug\FirozCenterHonda.exe.manifest
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\bin\Debug\FirozCenterHonda.application
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\bin\Debug\FirozCenterHonda.exe
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\bin\Debug\FirozCenterHonda.pdb
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\bin\Debug\MySql.Data.dll
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.csproj.ResolveComReference.cache
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.AddNewParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.CustomerContactNumber.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.DeleteServicing.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.DueService.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.EditAccessLevel.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.EditPartsName.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.EditPurchaseMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.EditSaleParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.Login.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.MainForm.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.NewPurchaseParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.NewSalesEngineOil.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.NewSaleService.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.NewSalesMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.NewSalesParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.NewServicing.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.NewUser.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.PartsPriceLIst.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.PrintSaleMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportBankTranscation.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportExpences.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportInventorySummery.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlyPurchaseMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlyPurchaseParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesEngineOil.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySaleService.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesParts.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportMonthlySalesPartyPrice.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportMotorCycle.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportMotorcyclePrice.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportPartsWithPrice.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportPartyTranscation.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportPurchaseSummary.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportSalesPartsDaily.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ReportServicing.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.ServicingDetails.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.StockMotorCycleDetails.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.StockPartsReport.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleDaily.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleMonthly.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorcycleMonthlyModelOnly.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.StockReportMotorCycleTranscation.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.StockReportPartsDetails.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.StockReportPartsTranscation.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.TranscationMonthly.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.UpdateMotorCycleName.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.UpdatePurchaseInvoice.resources
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.csproj.GenerateResource.cache
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.csproj.CoreCompileInputs.cache
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.exe.manifest
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.application
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.csproj.CopyComplete
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.exe
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.pdb
+C:\Users\Sabir Ismail\Google Drive\Project\FirozCenterHonda\Firoz-Center-Automation\Firoz Center\FC\obj\x86\Debug\FirozCenterHonda.csprojAssemblyReference.cache
